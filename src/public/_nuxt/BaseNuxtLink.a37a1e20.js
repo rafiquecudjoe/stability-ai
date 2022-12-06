@@ -1,0 +1,1 @@
+import"./BaseNuxtLink.vue_vue_type_script_setup_true_lang.9e317246.js";import{_ as t}from"./BaseNuxtLink.vue_vue_type_script_setup_true_lang.9e317246.js";import"./entry.30c1e34e.js";export{t as default};
